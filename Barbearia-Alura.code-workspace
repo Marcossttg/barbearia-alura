@@ -7,5 +7,7 @@
 			"path": "../Barbearia-Alura-test/styles"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "barbearia-alura"
+	}
 }
